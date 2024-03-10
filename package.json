@@ -1,0 +1,26 @@
+{
+"name": "contribution-guidelinessuweisuwei99",
+"version": "1.0.0",
+"description": "Contributions are welcome from the community, whether it's through code contributions, bug reports, or feature suggestions.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/lezliefinell/Contribution-Guidelines.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "lezliefinell",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
